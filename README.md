@@ -41,4 +41,10 @@ classDiagram
     User "1" *-- "1..N" News 
 
 ```
+## Teconoligas utilizadas : 
+
+APIRESTFUL;
+Banco de Dados PostegreSQL e banco em memória H2
+DEPLOY da API na Nubem (Railway);
+
 
